@@ -1,0 +1,19 @@
+{
+  "name": "macro-counter-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Macro Counter Website",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsanchez1397/macro-counter-backend.git"
+  },
+  "author": "Felipe Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsanchez1397/macro-counter-backend/issues"
+  },
+  "homepage": "https://github.com/fsanchez1397/macro-counter-backend#readme"
+}
